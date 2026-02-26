@@ -300,13 +300,13 @@ From manual inspection of 30 misclassified examples:
 If you use this work, please cite our system paper:
 
 ```bibtex
-@inproceedings{tuli-etal-2026-mindflayer,
-  title     = {{Mind\_Flayer} at {SemEval}-2026 Task 13:
+@inproceedings{{Mind_Flayer}semeval2026task13,
+  title     = {{Mind_Flayer} at {SemEval}-2026 Task 13:
                Calibration-Aware Ensemble Routing for
                Cross-Language {AI}-Generated Code Detection},
-  author    = {Tuli, Jerin Romijah and
-               Pritom, MD. Sartaj Alam and
-               Naem, Talukder Naemul Hasan},
+  author    = {Jerin Romijah Tuli and
+                MD. Sartaj Alam Pritom and
+                Talukder Naemul Hasan Naem},
   booktitle = {Proceedings of the 20th International Workshop on
                Semantic Evaluation (SemEval-2026)},
   year      = {2026},
