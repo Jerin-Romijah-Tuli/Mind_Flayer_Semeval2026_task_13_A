@@ -301,18 +301,15 @@ If you use this work, please cite our system paper:
 
 ```bibtex
 @inproceedings{{Mind_Flayer}semeval2026task13,
-  title     = {{Mind_Flayer} at {SemEval}-2026 Task 13:
-               Calibration-Aware Ensemble Routing for
-               Cross-Language {AI}-Generated Code Detection},
-  author    = {Jerin Romijah Tuli and
-                MD. Sartaj Alam Pritom and
-                Talukder Naemul Hasan Naem},
-  booktitle = {Proceedings of the 20th International Workshop on
-               Semantic Evaluation (SemEval-2026)},
+  title     = {{Mind_Flayer} at SemEval-2026 Task 13:Calibration-Aware Ensemble Routing for Cross-Language AI-Generated Code Detection},
+  author    = {Jerin Romijah Tuli , MD. Sartaj Alam Pritom ,Talukder Naemul Hasan Naem},
+  booktitle = {Proceedings of the 20th International Workshop on Semantic Evaluation (SemEval-2026)},
   year      = {2026},
   address   = {San Diego, USA},
   publisher = {Association for Computational Linguistics}
 }
+
+
 ```
 
 ---
