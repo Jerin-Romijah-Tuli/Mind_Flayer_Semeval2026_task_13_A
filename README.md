@@ -318,13 +318,39 @@ If you use this work, please cite our system paper:
 
 ## 👥 Team
 
-| Name | Department | Email |
-|------|-----------|-------|
-| Jerin Romijah Tuli | CSE | ramijahtuli786@gmail.com |
-| MD. Sartaj Alam Pritom | CSE | sartajalam0010@gmail.com |
-| Talukder Naemul Hasan Naem | EEE | naemruet@gmail.com |
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Jerin-Romijah-Tuli">
+        <img src="https://github.com/Jerin-Romijah-Tuli.png" width="100px;" alt="Jerin Romijah Tuli"/><br />
+        <b>Jerin Romijah Tuli</b>
+      </a><br />
+      🏛️ CSE<br />
+      📧 ramijahtuli786@gmail.com<br />
+      <a href="https://github.com/Jerin-Romijah-Tuli">@Jerin-Romijah-Tuli</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sartaj-Alam-Pritom">
+        <img src="https://github.com/Sartaj-Alam-Pritom.png" width="100px;" alt="MD. Sartaj Alam Pritom"/><br />
+        <b>MD. Sartaj Alam Pritom</b>
+      </a><br />
+      🏛️ CSE<br />
+      📧 sartajalam0010@gmail.com<br />
+      <a href="https://github.com/Sartaj-Alam-Pritom">@Sartaj-Alam-Pritom</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tnhnaem">
+        <img src="https://github.com/tnhnaem.png" width="100px;" alt="Talukder Naemul Hasan Naem"/><br />
+        <b>Talukder Naemul Hasan Naem</b>
+      </a><br />
+      🏛️ EEE<br />
+      📧 naemruet@gmail.com<br />
+      <a href="https://github.com/tnhnaem">@tnhnaem</a>
+    </td>
+  </tr>
+</table>
 
-**Institution**: Rajshahi University of Engineering & Technology, Bangladesh
+**Institution**: Rajshahi University of Engineering & Technology, Bangladesh  
 **Conducted as**: Undergraduate Research (no external funding)
 
 ---
