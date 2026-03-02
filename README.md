@@ -5,7 +5,7 @@
 ```
 ██████████████████████████████████████████████████████
 █                                                    █
-█   MIND_FLAYER · AI-Generated Code Detection        █
+█  LACR-ENS · AI-Generated Code Detection        █
 █   Calibration-Aware Ensemble Routing               █
 █   SemEval-2026 Task 13 · Subtask A                 █
 █                                                    █
@@ -26,7 +26,7 @@
 
 ## 📌 Overview
 
-**Mind\_Flayer** is our system submission for **SemEval-2026 Task 13: Detecting Machine-Generated Code** across multiple programming languages, generators, and application domains. Rather than treating this as a pure leaderboard problem, we approached it as an **empirical calibration study** — investigating *why* fine-tuned code transformers fail on out-of-distribution (OOD) languages, not just *whether* they fail.
+**LACR-ENS** is our system submission for **SemEval-2026 Task 13: Detecting Machine-Generated Code** across multiple programming languages, generators, and application domains. Rather than treating this as a pure leaderboard problem, we approached it as an **empirical calibration study** — investigating *why* fine-tuned code transformers fail on out-of-distribution (OOD) languages, not just *whether* they fail.
 
 | Metric | Value |
 |--------|-------|
@@ -301,7 +301,7 @@ If you use this work, please cite our system paper:
 
 ```bibtex
 @inproceedings{{Mind_Flayer}semeval2026task13,
-  title     = {{Mind_Flayer} at SemEval-2026 Task 13:Calibration-Aware Ensemble Routing     for Cross-Language AI-Generated Code Detection},
+  title     = {{Mind_Flayer} at SemEval-2026 Task 13:LACR-ENS:Calibration-Aware Ensemble Routing for Cross-Language AI-Generated Code Detection},
   author    = {Jerin Romijah Tuli , MD. Sartaj Alam Pritom ,Talukder Naemul Hasan Naem},
   booktitle = {Proceedings of the 20th International Workshop on Semantic Evaluation (SemEval-2026)},
    month = jun,
