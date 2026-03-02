@@ -14,7 +14,7 @@
 
 [![Task](https://img.shields.io/badge/Task-SemEval--2026%20Task%2013-blue?style=flat-square)](https://semeval.github.io/SemEval2026/tasks.html)
 [![Score](https://img.shields.io/badge/Macro--F1-0.53822-brightgreen?style=flat-square)]()
-[![Rank](https://img.shields.io/badge/Rank-37%20%2F%2087%20Groups-orange?style=flat-square)]()
+[![Rank](https://img.shields.io/badge/Rank-37%20%2F%2082%20Groups-orange?style=flat-square)]()
 [![Models](https://img.shields.io/badge/Models-UniXCoder%20%2B%20GraphCodeBERT-purple?style=flat-square)]()
 [![Framework](https://img.shields.io/badge/Framework-HuggingFace%20Transformers-yellow?style=flat-square)]()
 
